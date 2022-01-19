@@ -1,0 +1,7 @@
+{
+  "alias": "1234",
+  "_links": {
+    "self": "http://www.linkedin.com",
+    "short": "http://nushort/1234"
+  }
+}

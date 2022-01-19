@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShortenUrl</string>
+    <string name="hint_enter_url">Enter URL</string>
+    <string name="shorten_url">Shorten URl</string>
+    <string name="wrong_url_format">Invalid URL format</string>
+</resources>
